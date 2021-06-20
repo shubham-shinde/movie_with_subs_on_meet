@@ -1,0 +1,30 @@
+{
+  "name": "movie_with_subs_on_meet",
+  "version": "1.0.0",
+  "description": "Helping stream video over google meet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-shinde/movie_with_subs_on_meet.git"
+  },
+  "keywords": [
+    "movie",
+    "meet",
+    "google",
+    "solution"
+  ],
+  "author": "shubham-shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-shinde/movie_with_subs_on_meet/issues"
+  },
+  "homepage": "https://github.com/shubham-shinde/movie_with_subs_on_meet#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
