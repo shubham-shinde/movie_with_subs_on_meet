@@ -9,7 +9,7 @@
   <p align="center">
     Makes easy to share movies with subtitles over Google Meet.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shubham-shinde/movie_with_subs_on_meet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/shubham-shinde/movie_with_subs_on_meet">View Demo</a>
